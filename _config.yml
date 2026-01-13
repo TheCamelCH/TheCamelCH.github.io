@@ -17,7 +17,7 @@ title: A tech blog written from the back of a camel.
 email: admin@ecaminada.me
 description: >- # this means to ignore newlines until "baseurl:"
   Just anothe tech blog, written from a guy named Enrico
-twitter_username: username
+bluesky_username: caminada.me
 github_username: username
 minimal_mistakes_skin: default
 search: true
@@ -60,30 +60,23 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Bluesky"
+      icon: "fa fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/caminada.me"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/TheCamelCH/"
+
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Bluesky"
+      icon: "fa fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/caminada.me"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/TheCamelCH/"
+
 
 defaults:
   # _posts

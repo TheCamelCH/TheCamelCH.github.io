@@ -1,0 +1,12 @@
+.social-icons .fa-bluesky {
+  display: inline-block !important;
+  width: 1.25em !important;
+  height: 1.25em !important;
+  background-image: url('/assets/images/Bluesky_Logo.svg') !important;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  color: transparent !important; /* hide any font glyph */
+}
+.social-icons .fa-bluesky:before { content: none !important; }
+.author__urls a .label { padding-left: .5em; }
