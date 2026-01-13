@@ -17,8 +17,6 @@ title: A tech blog written from the back of a camel.
 email: admin@ecaminada.me
 description: >- # this means to ignore newlines until "baseurl:"
   Just anothe tech blog, written from a guy named Enrico
-bluesky_username: caminada.me
-github_username: username
 minimal_mistakes_skin: default
 search: true
 
@@ -56,7 +54,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Enrico Caminada
+  name   : "Enrico Caminada"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
