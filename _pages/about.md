@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi, my name is Enrico and I work in IT since 2002. I'm a systems engineer and technical consultant specializing in modern workplace solutions and enterprise infrastructure. My expertise centers on designing, implementing, and managing virtual desktop environments and cloud-based productivity platforms.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Over the years, I've developed deep technical knowledge in desktop virtualisation technologies, with a particular focus on Azure Virtual Desktop, Windows 365 and Citrix CVAD. My work primarily involves the Microsoft ecosystem, including Azure cloud services, Microsoft Intune, Entra ID and Microsoft 365.
+
+Hopefully, you'll find some useful information on my blog :-)

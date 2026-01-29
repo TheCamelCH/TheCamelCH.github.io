@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: A tech blog written from the back of a camel.
+title: A tech blog written from the back of a camel
 email: admin@ecaminada.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Just anothe tech blog, written from a guy named Enrico
+  Just another tech blog, written from a guy named Enrico
 minimal_mistakes_skin: default
 search: true
 
@@ -55,8 +55,8 @@ plugins:
 
 author:
   name   : "Enrico Caminada"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/20171108135533_IMG_1374.JPG"
+  bio    : "Trying my best in IT. Workin in end-user computing, especially VDI / Intune and Entra ID"
   links:
     - label: "Bluesky"
       icon: "fa fa-fw fa-bluesky"
@@ -64,6 +64,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/TheCamelCH/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/enrico-caminada-a1b6b3102/"
 
 
 footer:
@@ -74,6 +77,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/TheCamelCH/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/enrico-caminada-a1b6b3102/"
 
 
 defaults:
