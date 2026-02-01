@@ -9,7 +9,7 @@ tags:
   - Troubleshooting
 ---
 
-Over the last few months, I've spent some time deploying a large number of W365 Cloud PCs. Now, in the production environment, I'm facing some challenges that I didn't encounter during testing. In this blog post, I'm gonna list some things that I wish I had known before. I hope this helps you avoid making the same mistakes I did 😊
+Over the last few months, I've spent some time deploying a large number of W365 Cloud PCs. Now, in the production environment, I'm facing some challenges that I didn't encounter during testing. In this blog post, I'm gonna list some things that I wish I had known before. I hope this helps you avoid making the same mistakes I did 
  
 ### Reprovisioning = New client
  
@@ -31,7 +31,7 @@ In my environment, I have different provisioning policies for different use case
 
 ### No maintenance window
 
-If you're using Citrix CVAD or AVD, you will be familiar with maintenance / drain mode. Clients in this mode cannot be accessed. There is no maintenance mode in W365. Therefore, if you are deploying updates or new software and want to ensure that users cannot cancel or interrupt the installation / update process, you need to prevent them from logging in to the Cloud PC. Best solution for us is to stop and disable the " PROZESS" process before the update and start it after the maintenance. This solution is not ideal, because your monitorin system could throw some alerts. But right now I haven't a better solution. If you have one, please let me know 😉
+If you're using Citrix CVAD or AVD, you will be familiar with maintenance / drain mode. Clients in this mode cannot be accessed. There is no maintenance mode in W365. Therefore, if you are deploying updates or new software and want to ensure that users cannot cancel or interrupt the installation / update process, you need to prevent them from logging in to the Cloud PC. Best solution for us is to stop and disable the " PROZESS" process before the update and start it after the maintenance. This solution is not ideal, because your monitorin system could throw some alerts. But right now I haven't a better solution. If you have one, please let me know 
 
 <span style="color:red">Learning: Check if user logon braeks your maintenance process. If yes, disbale the service and check the alerting</span>
 
