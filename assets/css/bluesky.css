@@ -10,3 +10,27 @@
 }
 .social-icons .fa-bluesky:before { content: none !important; }
 .author__urls a .label { padding-left: .5em; }
+
+
+/* Tweak layout to reduce unused right-side space by shrinking the sidebar
+   Use !important so this override applies even when the theme CSS is loaded after this file. */
+@media (min-width: 64em) {
+  .page, .archive, .page__related { width: calc(100% - 140px) !important; padding-inline-end: 140px !important; }
+  .sidebar { width: calc(140px - 1em) !important; }
+  .sidebar__right { width: 140px !important; margin-inline-end: -140px !important; }
+}
+@media (min-width: 80em) {
+  .page, .archive, .page__related { width: calc(100% - 200px) !important; padding-inline-end: 200px !important; }
+  .sidebar { width: calc(200px - 1em) !important; }
+  .sidebar__right { width: 200px !important; margin-inline-end: -200px !important; }
+}
+
+/* Increase masthead height so page content starts lower */
+@media (min-width: 48em) {
+  .masthead__inner-wrap { padding-top: 1.6em !important; padding-bottom: 1.6em !important; }
+}
+@media (min-width: 80em) {
+  .masthead__inner-wrap { padding-top: 2em !important; padding-bottom: 2em !important; }
+}
+
+
