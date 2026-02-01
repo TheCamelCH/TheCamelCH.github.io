@@ -22,7 +22,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 
 # Outputting
 permalink: /:categories/:title/
@@ -47,12 +47,10 @@ include:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
   - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+  - jemoji
 
 author:
   name   : "Enrico Caminada"
