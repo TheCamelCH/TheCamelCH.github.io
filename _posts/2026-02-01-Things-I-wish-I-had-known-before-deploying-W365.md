@@ -1,6 +1,6 @@
 ---
 title: "Things I wish I had known before deploying W365"
-date: 2026-02-02:22:00-00:00
+date: 2026-02-01:09:00-00:00
 categories:
   - blog
 tags:
