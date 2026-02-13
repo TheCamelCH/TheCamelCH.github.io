@@ -1,6 +1,6 @@
 ---
 title: "Things I wish I had known before deploying W365"
-excerpt: "Over the last few months, I've spent some time deploying a large number of W365 Cloud PCs."
+excerpt: "Over the last few months, I've spent some time deploying a large number of W365 Cloud PCs. Now, in the production environment, I'm facing some challenges that I didn't encounter during testing. In this blog post, I'm gonna list some points that I wish I had known before. I hope this helps you avoid making the same mistakes I did. :laughing:"
 date: 2026-02-01
 categories:
   - blog
