@@ -1,5 +1,6 @@
 ---
 title: "Things I wish I had known before deploying W365"
+description: "Avoid common Windows 365 deployment pitfalls. Real-world insights on provisioning policies, naming template limits, IP planning, and maintenance workarounds."
 excerpt: "Over the last few months, I've spent some time deploying a large number of W365 Cloud PCs. Now, in the production environment, I'm facing some challenges that I didn't encounter during testing. In this blog post, I'm gonna list some points that I wish I had known before. I hope this helps you avoid making the same mistakes I did. :laughing:"
 date: 2026-02-01
 categories:
@@ -64,4 +65,4 @@ This one is important, if you're using your own Azure network connection (I don'
 
 **Key Learning:** Plan with enough IP addresses! Subnet resizing is not possible afterwards.
 
-Hve I missed something or do you have any tips and tricks for me? Please reach out to me on my social channels.
+Have I missed something or do you have any tips and tricks for me? Please reach out to me on my social channels.

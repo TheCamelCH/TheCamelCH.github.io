@@ -55,7 +55,7 @@ plugins:
 author:
   name   : "Enrico Caminada"
   avatar : "/assets/images/20171108135533_IMG_1374.JPG"
-  bio    : "Trying my best in IT. Workin in end-user computing, especially VDI / Intune and Entra ID"
+  bio    : "Trying my best in IT. Working in end-user computing, especially VDI / Intune and Entra ID"
   links:
     - label: "Bluesky"
       icon: "fa fa-fw fa-bluesky"
