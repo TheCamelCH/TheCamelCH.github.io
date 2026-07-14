@@ -62,7 +62,7 @@ I configured the AVD host pool to use the same authentication context. The CAP s
 </figure>
 <div style="clear: both;"></div>
 
-As soon as I configured the authentication context, the drives never got redirected. I event tested it with the configuration described in the Microsoft document but without success. I don't know if this is a preview problem or not, because troubleshooting this feature is really painful. For example, you don't get any useful info from the sign-in logs. The specified CAP shows as "not applied," even when it definitely applies. That's something Microsoft is aware of, and hopefully it gets fixed in the future. Otherwise, troubleshooting redirection issues is basically impossible.
+As soon as I configured the authentication context, the drives never got redirected. I even tested it with the configuration described in the Microsoft document but without success. I don't know if this is a preview problem or not, because troubleshooting this feature is really painful. For example, you don't get any useful info from the sign-in logs. The specified CAP shows as "not applied," even when it definitely applies. That's something Microsoft is aware of, and hopefully it gets fixed in the future. Otherwise, troubleshooting redirection issues is basically impossible.
 
 <figure class="align-left">
   <img src="/assets/images/blog/2026-07-10/signinlogs.png" alt="Dude, why are you lying to me. Thought we were friends">
