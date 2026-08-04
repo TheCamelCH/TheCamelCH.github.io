@@ -14,11 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: A tech blog written from the back of a camel
+url: "https://caminada.me"
 email: admin@ecaminada.me
 description: >- # this means to ignore newlines until "baseurl:"
   Just another tech blog about EUC
 minimal_mistakes_skin: default
 search: true
+locale: "en_US"
 
 # Build settings
 markdown: kramdown
