@@ -2,6 +2,7 @@
 title: "The print redirection rabbit hole"
 description: "Struggling with AVD session crashes during printing? Learn how to bypass Easy Print, use native drivers, and master custom .inf printer mapping."
 excerpt: "It's no secret. Printing isn't the most thrilling topic in IT. I think we can all agree on that. Yet, it’s still a daily requirement for most users, which brings us IT folks the joy of troubleshooting printer issues from time to time. Today, I want to share a specific story about printer redirection in Azure Virtual Desktop (AVD)."
+image: /assets/images/blog/2026-05-12/Brother_Mapping_Canon.png
 date: 2026-05-12
 categories:
   - blog
