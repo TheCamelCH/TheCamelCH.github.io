@@ -2,10 +2,7 @@
 title: "Things I wish I had known before deploying W365"
 description: "Avoid common Windows 365 deployment pitfalls. Real-world insights on provisioning policies, naming template limits, IP planning, and maintenance workarounds."
 excerpt: "Over the last few months, I've spent some time deploying a large number of W365 Cloud PCs. Now, in the production environment, I'm facing some challenges that I didn't encounter during testing. In this blog post, I'm gonna list some points that I wish I had known before. I hope this helps you avoid making the same mistakes I did. :laughing:"
-image:
-  path: /assets/images/blog/2026-02-01/Teaser_W365_og_1200x630.jpg
-  width: 1200
-  height: 630
+image: /assets/images/blog/2026-02-01/Teaser_W365_og_1200x630.jpg
 date: 2026-02-01
 categories:
   - blog
