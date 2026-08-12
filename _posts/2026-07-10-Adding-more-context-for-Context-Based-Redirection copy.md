@@ -2,7 +2,7 @@
 title: "Adding More Context for Context Based Redirection"
 description: "Context based redirection is the cool new preview feature that Microsoft gives us to control the redirection behaviour of drives, printers, USB and clipboard for compliant devices. But what if this isn't enough?"
 excerpt: "Microsoft finally gives us granular control over drive, printer and clipboard redirection based on Conditional Access context. But does it actually deliver the flexibility Citrix admins are used to? Spoiler: it's complicated."
-image: /assets/images/blog/2026-07-10/AVD_redir.png
+image: /assets/images/blog/2026-07-10/teaser_CBR_og_1200x630.jpg
 date: 2026-07-13
 categories:
   - blog
