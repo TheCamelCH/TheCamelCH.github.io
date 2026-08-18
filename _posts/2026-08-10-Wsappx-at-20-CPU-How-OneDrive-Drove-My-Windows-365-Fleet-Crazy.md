@@ -29,7 +29,7 @@ First things first and I’ll keep it short, because it all came up empty. Appli
 </figure>
 <div style="clear: both;"></div>
 
-So after some clueless searching I decided to make a CPU Sampling Trace with the Windows Performance Recorder. I was hoping that I can see what is really causing the high CPU traffic in the svchost process. WPR seemed like a good Tool for that, because it is reporting all the threads every millisecond. I ran the tool for 30 seconds with this command. 
+So after some clueless searching I decided to make a CPU Sampling Trace with the Windows Performance Recorder. I was hoping that I can see what is really causing the high CPU traffic in the svchost process. WPR seemed like a good Tool for that, because it is reporting all the threads every millisecond. I ran the tool with this command. 
 
 ``` powershell
 wpr -start CPU -filemode
